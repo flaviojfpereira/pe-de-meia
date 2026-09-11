@@ -1,0 +1,95 @@
+@import "tailwindcss";
+
+@layer base {
+  html,
+  body,
+  #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  body {
+    color: #1d1d1f;
+    background-color: #ffffff;
+    font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Bold Typography Theme classes */
+.text-huge {
+  font-size: clamp(3.5rem, 8vw, 112px);
+  line-height: 0.9;
+  letter-spacing: -0.04em;
+  font-weight: 700;
+  color: #1d1d1f;
+}
+
+.text-label {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  color: #86868b;
+}
+
+.card {
+  background-color: #f5f5f7;
+  border-radius: 24px;
+  padding: 28px;
+}
+
+.card-dark {
+  background-color: #1d1d1f;
+  color: #ffffff;
+  border-radius: 24px;
+  padding: 28px;
+}
+
+.toggle-pill {
+  background: #e8e8ed;
+  border-radius: 100px;
+  padding: 4px;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.toggle-active {
+  background: white;
+  border-radius: 100px;
+  padding: 4px 12px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  color: #1d1d1f;
+  font-weight: 600;
+}
+
+.toggle-inactive {
+  padding: 4px 12px;
+  color: #86868b;
+  font-weight: 600;
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #00ff00;
+  box-shadow: 0 0 10px rgba(0, 255, 0, 0.4);
+  display: inline-block;
+}
+
+.ai-badge {
+  font-size: 10px;
+  background: #E8F0FE;
+  color: #1967D2;
+  padding: 2px 6px;
+  border-radius: 4px;
+  vertical-align: middle;
+  margin-left: 6px;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+}

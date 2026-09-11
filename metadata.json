@@ -1,0 +1,6 @@
+{
+  "name": "Pé de Meia",
+  "description": "Plataforma de inteligência patrimonial e independência financeira adaptada a Portugal: agregação de património líquido, cálculo de IMT e atrito de fecho, escudo fiscal CIRS Artigo 41.º, simulação Ripple Playground e bifurcações Counterfactual Weaver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
