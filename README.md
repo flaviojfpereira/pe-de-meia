@@ -38,43 +38,57 @@
 
 ## Interface Gallery
 
-<div align="center">
-
 ### 1. Present State Dashboard
-![Present State Dashboard](docs/screenshots/01-dashboard-overview.png)
-*Net worth trajectory, cash runway, safe-to-spend calculation, emergency fund health, and active debt amortizations.*
+> Net worth trajectory, cash runway, safe-to-spend calculation, emergency fund health, and active debt amortizations.
+
+<p align="center">
+  <img src="docs/screenshots/01-dashboard-overview.png" alt="Present State Dashboard" width="100%" />
+</p>
 
 ---
 
 ### 2. Portfolio Assets & Real Estate Management
-![Portfolio Assets and Liabilities](docs/screenshots/02-real-estate-imt.png)
-*Property ledger, fair market valuations, net rental cash flows, and CIRS Art. 41 tax shielding.*
+> Property ledger, fair market valuations, net rental cash flows, and CIRS Art. 41 tax shielding.
+
+<p align="center">
+  <img src="docs/screenshots/02-real-estate-imt.png" alt="Portfolio Assets and Liabilities" width="100%" />
+</p>
 
 ---
 
 ### 3. Ripple Playground
-![Ripple Playground](docs/screenshots/03-ripple-playground.png)
-*Real-time sensitivity analysis for savings rates, asset allocation, inflation shocks, and milestone acceleration.*
+> Real-time sensitivity analysis for savings rates, asset allocation, inflation shocks, and milestone acceleration.
+
+<p align="center">
+  <img src="docs/screenshots/03-ripple-playground.png" alt="Ripple Playground" width="100%" />
+</p>
 
 ---
 
 ### 4. Counterfactual Weaver
-![Counterfactual Weaver](docs/screenshots/04-counterfactual-weaver.png)
-*Side-by-side branch comparison of alternative life scenarios with one-click promotion to the main model.*
+> Side-by-side branch comparison of alternative life scenarios with one-click promotion to the main model.
+
+<p align="center">
+  <img src="docs/screenshots/04-counterfactual-weaver.png" alt="Counterfactual Weaver" width="100%" />
+</p>
 
 ---
 
 ### 5. Physical Property & Thermal Comfort Specification
-![Add Real Estate Property](docs/screenshots/05-add-property-features.png)
-*Granular physical input: typology, usable area, construction year, heating systems, AC, garage, and grounding context notes.*
+> Granular physical input: typology, usable area, construction year, heating systems, AC, garage, and grounding context notes.
+
+<p align="center">
+  <img src="docs/screenshots/05-add-property-features.png" alt="Add Real Estate Property" width="100%" />
+</p>
 
 ---
 
 ### 6. AI Valuation Engine & Portuguese Market Benchmarks
-![AI Valuation Engine](docs/screenshots/06-ai-valuation-engine.png)
-*Official notary deed registry comparison, portal asking prices, negotiation discounts, and step-by-step appraisal rationale.*
+> Official notary deed registry comparison, portal asking prices, negotiation discounts, and step-by-step appraisal rationale.
 
-</div>
+<p align="center">
+  <img src="docs/screenshots/06-ai-valuation-engine.png" alt="AI Valuation Engine" width="100%" />
+</p>
 
 ---
 
